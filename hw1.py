@@ -1,3 +1,5 @@
+#r10521519 魏三雅
+#https://kathyweiii-nlp-hw1-n7jx0s.streamlitapp.com/
 from cProfile import label
 import streamlit as st
 from snownlp import SnowNLP
